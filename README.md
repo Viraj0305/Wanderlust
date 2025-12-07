@@ -1,0 +1,1 @@
+Wanderlust is an Airbnb-style web app built with Node.js, Express, MongoDB, and Cloudinary. Users can create, browse, and manage property listings with image uploads, filters, and detailed views. Features include CRUD operations, validation, and a clean, responsive UI.
